@@ -31,7 +31,7 @@ This problem has **no input**. Do not read anything ;).
 ## Constraints
 
 1. There is **no input** for this problem.
-2. The output must be **exactly**.
+2. The **output must be exactly the 15 characters**: Hello, PyConES!
 
 ## Output Format
 
